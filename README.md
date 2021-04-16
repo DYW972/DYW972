@@ -4,7 +4,7 @@
 
 Human self-taught aspiring Fullstack Developer who loves coding and nature 🌍
 
-- 🌱 I’m currently learning freeCodeCamp Responsive Web Design,
+- 🌱 I’m currently learning freeCodeCamp Responsive Web Design path,
 - 🔭 I’m currently working on my GitHub profile and my Portfolio,
 - 👯 I’m looking to collaborate on Space Open Source projects,
 - 🤔 I’m looking for help with self-confidence in programming and English spelling,
