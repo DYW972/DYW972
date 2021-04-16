@@ -1,4 +1,17 @@
-### Hi there 🖖  I'm dyw972
+### Hi there  🖖     I'm dyw972
+
+---
+
+Human self-taught aspiring Fullstack Developer who loves coding and nature 🌍
+
+- 🌱 I’m currently learning freeCodeCamp Responsive Web Design,
+- 🔭 I’m currently working on my GitHub profile and my Portfolio,
+- 👯 I’m looking to collaborate on Space Open Source projects,
+- 🤔 I’m looking for help with self-confidence in programming and English spelling,
+- 💬 Ask me about my path and my professional projects,
+- 📫 How to reach me: 
+- 😄 Pronouns: Human
+-  ⚡ Fun fact: I'm passionate about programming since 1998 but I never turn that passion into my job before 2018 😅
 
 <!--
 **DYW972/DYW972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
