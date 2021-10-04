@@ -9,9 +9,9 @@ Human self-taught aspiring Fullstack Developer who loves coding and nature 🌍
 - 👯 I’m looking to collaborate on Javascript Open Source projects,
 - 🤔 I’m looking for help with self-confidence in programming,
 - 💬 Ask me about my path and my professional projects,
-- 📫 How to reach me: ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FDunonYohan)
+- 📫 How to reach me: working on it ! 🔄
 - 😄 Pronouns: Human
--  ⚡ Fun fact: I'm passionate about programming since 1998 but I never turn that passion into my job before 2018 😅
+-  ⚡ Fun fact: MERN Stack gives me goosbumps 🤩
 
 <img alt="Cocoapods platforms badge" src="https://img.shields.io/badge/platform-ios%20%7C%20osx%20-%23989898">
 
