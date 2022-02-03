@@ -4,15 +4,6 @@
 
 Human self-taught aspiring Fullstack Developer who loves coding and nature 🌍
 
-- 🌱 I’m currently learning freeCodeCamp Responsive Web Design path,
-- 🔭 I’m currently working on my GitHub profile and my Portfolio,
-- 👯 I’m looking to collaborate on Javascript Open Source projects,
-- 🤔 I’m looking for help with self-confidence in programming,
-- 💬 Ask me about my path and my professional projects,
-- 📫 How to reach me: 🚧 working on it ! 🔄 🚧
-- 😄 Pronouns: Human
--  ⚡ Fun fact: MERN Stack gives me goosbumps 🤩
-
 <img alt="Cocoapods platforms badge" src="https://img.shields.io/badge/platform-ios%20%7C%20osx%20-%23989898">
 
 <!--
@@ -28,5 +19,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+- 🌱 I’m currently learning freeCodeCamp Responsive Web Design path,
+- 🔭 I’m currently working on my GitHub profile and my Portfolio,
+- 👯 I’m looking to collaborate on Javascript Open Source projects,
+- 🤔 I’m looking for help with self-confidence in programming,
+- 💬 Ask me about my path and my professional projects,
+- 📫 How to reach me: 🚧 working on it ! 🔄 🚧
+- 😄 Pronouns: Human
+-  ⚡ Fun fact: MERN Stack gives me goosbumps 🤩
 -->
 
