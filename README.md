@@ -2,7 +2,7 @@
 
 ---
 
-Human self-taught aspiring Fullstack Developer who loves coding and nature 🌍
+Human self-taught Fullstack Developer who loves coding and nature 🌍
 
 <img alt="Cocoapods platforms badge" src="https://img.shields.io/badge/platform-ios%20%7C%20osx%20-%23989898">
 
