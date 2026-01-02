@@ -4,7 +4,7 @@
 
 Human self-taught Fullstack Developer who loves coding and nature 🌍
 
-<img alt="Cocoapods platforms badge" src="https://img.shields.io/badge/platform-ios%20%7C%20osx%20-%23989898">
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 <!--
 **DYW972/DYW972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
