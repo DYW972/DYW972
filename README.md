@@ -6,7 +6,7 @@
 - 🇬🇧 [Read in English](.github/BIO_EN.md)
 
 ---
-*Full-Stack Developer | Open-Source Contributor*
+*Full-Stack Developer*
 
 <!--
 ### I'm Yoh 🖖
