@@ -1,4 +1,4 @@
-# Yohan William Dunon
+# Yohan Dunon
 
 🖖 Welcome to my profile! Choose your language:
 
