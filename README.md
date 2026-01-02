@@ -1,3 +1,14 @@
+# Yohan William Dunon
+
+🖖 Welcome to my profile! Choose your language:
+
+- 🇫🇷 [Lire en Français](.github/BIO_FR.md)
+- 🇬🇧 [Read in English](.github/BIO_EN.md)
+
+---
+*Full-Stack Developer | Open-Source Contributor*
+
+<!--
 ### I'm Yoh 🖖
 
 ---
@@ -23,7 +34,7 @@ Developer
 
 
 
-<!--
+
 **DYW972/DYW972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
