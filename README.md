@@ -2,7 +2,7 @@
 
 ---
 
-Human self-taught Fullstack Developer who loves coding and nature 🌍
+Developer
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
